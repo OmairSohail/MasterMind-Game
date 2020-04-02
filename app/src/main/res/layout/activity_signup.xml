@@ -86,4 +86,5 @@
         android:layout_alignWithParentIfMissing="false"
         android:layout_centerVertical="true"
         android:text="SignUp" />
+
 </RelativeLayout>
